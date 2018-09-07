@@ -1,4 +1,12 @@
 print("Hello World.")
-print("My name is Artur")
-print("Test")
-Print("test 4")
+
+
+print("Artur")
+
+
+print(3 + 7 - 3)
+
+
+print("Hello", "there")
+
+answer_return = square_return(4)
