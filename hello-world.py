@@ -1,7 +1,7 @@
 print("Hello World.")
 
 
-print("Artur")
+print("Artur 2")
 
 
 print(3 + 7 - 3)
